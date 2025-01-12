@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Satya R!
+# 👋 Hi, I'm Satya Rekapalli!
 
 Welcome to my profile! I’m a **Full Stack Java Developer** with **6 years of experience** in designing and delivering scalable, high-performance web applications and microservices. My expertise spans backend engineering, cloud computing, data optimization, and interactive UI development.
 
