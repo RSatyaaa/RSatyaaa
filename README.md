@@ -45,7 +45,6 @@ Welcome to my profile! I’m a **Full Stack Java Developer** with **6 years of e
 
 ## 🤝 Let’s Connect
 - **Email:** [rsatyaaa@gmail.com](mailto:rsatyaaa@gmail.com)
-- **LinkedIn:** [Satya R](https://www.linkedin.com/in/satyarekapalli/)
 
 ---
 
